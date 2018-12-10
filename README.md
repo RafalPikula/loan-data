@@ -2,7 +2,7 @@
 The aim of this project is to explore the effectiveness of classifying the credit loans into two categories, namely, the good and the bad loans based on the LendingClub loan data. 
 
 First, note that:
-- the files containing the actual loan data are too big to be uploaded but can be downloaded from this site: 
+- the files containing the actual loan data (lc_2016_2017.csv and lc_loan.csv) are too big to be uploaded but can be downloaded from this site: 
 https://www.kaggle.com/husainsb/lendingclub-issued-loans
 - the file LCDataDictionary.xlsx comes from this site: https://www.kaggle.com/wendykan/lending-club-loan-data
 
